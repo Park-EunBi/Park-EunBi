@@ -1,4 +1,4 @@
-### Hi there 👋
+![trophy](https://github-profile-trophy.vercel.app/?username=Park-EunBi)
 
 <!--
 **Park-EunBi/Park-EunBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
