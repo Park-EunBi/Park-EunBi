@@ -1,3 +1,6 @@
+![Park-EunBi's github stats](https://github-readme-stats.vercel.app/api?username=Park-EunBi&show_icons=true)
+[![Park-EunBi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-EunBi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Park-EunBi)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Park-EunBi)
 
 <!--
