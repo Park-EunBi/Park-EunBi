@@ -1,9 +1,6 @@
 <div align="center">
 
 
-![Park-EunBi's github stats](https://github-readme-stats.vercel.app/api?username=Park-EunBi&theme=tokyonight&show_icons=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-EunBi&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 
