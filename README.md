@@ -11,11 +11,17 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <div>
 
+<br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Park-Eunbi&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+  
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-EunBi&layout=compact&theme=dracula)](https://github.com/metleeha)
-
+-->
+  
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-EunBi&count_bg=%237991D6&title_bg=%233B4769&icon=&icon_color=%23E7E7E7&title=Eunbi+Park&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-</div>
+
 <!--
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-EunBi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -37,6 +43,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</div>
   
-
+-->
