@@ -14,7 +14,8 @@
 <br>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Park-Eunbi&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkeb555)](https://solved.ac/parkeb555/)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-EunBi&layout=compact&theme=dracula)](https://github.com/metleeha)
 -->
