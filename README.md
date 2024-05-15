@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=95&section=header)
+<!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=95&section=header) -->
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Eunbi)](https://git.io/typing-svg)     
