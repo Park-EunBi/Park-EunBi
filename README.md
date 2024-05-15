@@ -1,7 +1,7 @@
 <!-- <div align="center">
  -->
 
-## 👩‍💻 About Eunbi
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Eunbi)](https://git.io/typing-svg)     
 안녕하세요. 객관적인 시야를 바탕으로 기술 너머의 사람을 먼저 생각하는 개발자, 박은비입니다. 
 
 코드의 조합으로 생활 속 불편함과 문제를 해결할 수 있기에 컴퓨터 사이언스와 개발을 좋아합니다.    
@@ -9,7 +9,7 @@
 
 ---
 
-## 🖥️Career
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8FCareer)](https://git.io/typing-svg)    
 
 **Ericsson LG** (2023.01 ~ 2023. 02, 인턴쉽)
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🏃‍♀️Project & Activites
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8FProject+%26+Activites)](https://git.io/typing-svg)     
 - electric-scooter traffic violation monitoring system (2022.09 ~ 2022.11)
   - 전동 킥보드 횡단보도 주행 감지 시스템 풀스택 개발, 데이터 분석
   - https://github.com/Park-EunBi/electric-scooter-traffic-violation-monitoring-system      
@@ -46,7 +46,7 @@
        
 ---
 
-## 🏆 수상경력
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%8F%86+%EC%88%98%EC%83%81%EA%B2%BD%EB%A0%A5)](https://git.io/typing-svg)     
 | 대회명 | 주관기관 | 수상명 | 수상일자 |
 | --- | --- | --- | --- |
 | Girls in ICT 2022 | Ericsson-LG | Best Award (대상) | 2022-11-23 |
@@ -56,7 +56,7 @@
 
 ---
 
-## 📖 논문 & 특허 출원
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%93%96+%EB%85%BC%EB%AC%B8+%26+%ED%8A%B9%ED%97%88+%EC%B6%9C%EC%9B%90)](https://git.io/typing-svg)      
 - 한국정보처리학회 ACK 2022 (추계학술발표대회)
   - 음성 인식 기반 쇼핑 어플리케이션 개발을 위한 데이터 전처리 알고리즘
 
@@ -67,14 +67,7 @@
 
 
 ---
-## 🛠️ Stack
-<div align=center> 
-  
-  
-  
-  
-  
-  
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Stack)](https://git.io/typing-svg)      
 <div align=center> 
 
 | Language | Back-end | Database | OS | Tools & Collaboration | 
