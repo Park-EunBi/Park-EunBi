@@ -79,7 +79,7 @@
 
 ---    
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%93%92+Latest+Blog+Post)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%93%92+Latest+Blog+Post)](https://git.io/typing-svg)
 
 [2024/07/04 - [Programmers] 두 수 사이의 정수 쌍(Python, Java)](https://spongerice.tistory.com/214) <br/>
 [2024/07/03 - [Programmers] 요격 시스템 (Python, Java)](https://spongerice.tistory.com/213) <br/>
