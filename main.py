@@ -85,7 +85,7 @@ markdown_text = """
 
 ---    
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%93%92+Latest+Blog+Post)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%93%92+Latest+Blog+Post)](https://git.io/typing-svg)
 
 """  # list of blog posts will be appended here
 
