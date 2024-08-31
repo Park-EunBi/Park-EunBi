@@ -17,6 +17,9 @@ markdown_text = """
 ---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8FCareer)](https://git.io/typing-svg)    
+**KB라이프생명** (2024.08 ~ 2024.09, 인턴쉽)     
+
+- (대고객) KB라이프생명보험 PC/모바일 웹 페이지 유지보수, 관련 프로세스 학습    
 
 **Ericsson LG** (2023.01 ~ 2023. 02, 인턴쉽)
 
